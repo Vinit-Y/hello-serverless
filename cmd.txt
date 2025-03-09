@@ -1,1 +1,0 @@
-To run the serverless offline use command 'serverless-offline'
